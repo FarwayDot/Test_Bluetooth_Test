@@ -13170,7 +13170,7 @@
 			)
 		)
 	)
-	(global_label "PA4_MODE_OUTPUT"
+	(global_label "PA5_MODE_OUTPUT"
 		(shape input)
 		(at 372.11 99.06 0)
 		(fields_autoplaced yes)
@@ -15062,7 +15062,7 @@
 			)
 		)
 	)
-	(global_label "PA4_MODE_OUTPUT"
+	(global_label "PA5_MODE_OUTPUT"
 		(shape input)
 		(at 292.1 101.6 180)
 		(fields_autoplaced yes)
